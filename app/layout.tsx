@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nama Kamu - Portfolio",
+  title: "Mauizatul Fadhillah - Portfolio",
   description:
     "Portfolio digital designer dan frontend developer untuk website, dashboard, dan sistem interface.",
 };
@@ -33,7 +33,7 @@ export default function RootLayout({
         <header className="sticky top-0 z-50 border-b border-black/10 bg-[#f7f2ea]/88 px-6 py-4 backdrop-blur-md sm:px-10 lg:px-16">
           <div className="mx-auto flex max-w-7xl items-center justify-between">
             <Link href="/" className="text-base font-semibold">
-              Nama Kamu
+              Mauizatul Fadhillah
             </Link>
             <nav
               aria-label="Navigasi utama"
